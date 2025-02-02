@@ -34,4 +34,10 @@ This is a django project to learn the basics of django.
    - learn how to use HttpResponseNotFound to return a 404 error
    - learn how to use HttpResponse to return a response
    - learn about the routing system in django
-- [x] Create a new template
+- [x] Create templates
+   - Created a base template that other templates inherit from
+   - Created challenge.html template to display monthly challenges
+   - Added header template as a reusable component
+   - Used template filters like title to format text
+   - Implemented template inheritance and includes
+   - Added static files (CSS) to style the templates
